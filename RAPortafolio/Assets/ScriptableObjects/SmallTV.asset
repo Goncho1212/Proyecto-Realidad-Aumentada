@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c951a3f96f787ea44b31035b5e454e30, type: 3}
+  m_Name: SmallTV
+  m_EditorClassIdentifier: 
+  ItenName: SmallTV
+  ItemImage: {fileID: 21300000, guid: 4f366534d64db4546aab8707929acb88, type: 3}
+  ItemDescription: StandTV
+  Item3DModel: {fileID: 1782367274440097509, guid: 2fc06d1c140cd2b4fb8354c443b60ac5,
+    type: 3}
